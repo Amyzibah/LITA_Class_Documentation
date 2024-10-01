@@ -1,2 +1,3 @@
 # LITA_Class_Documentation
-# project file
+# Project File: Data Analysis Class Project
+## Project Overview
