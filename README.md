@@ -19,3 +19,13 @@ The Dataset used for this project was " a CSV file containing files of an e-comm
 - Power BI
 
 - Github for portfolio building.
+
+### Exploratory Data Analysis
+created visualization such as barcharts to understand the distribution and relationships in the data
+
+
+
+
+
+### Conclusion
+This project demonstrated the ability  to work through the full data analysis lifecycle, from cleaning and exploration to visualization and reporting.
