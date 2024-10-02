@@ -8,11 +8,11 @@ The Dataset used for this project was " a CSV file containing files of an e-comm
 #### Tools Used
 - Microsoft Excel
   
-1.Data Cleaning
+        1.Data Cleaning
 
-2.Analysis
+        2.Analysis
 
-3.Visualization and Reporting
+        3.Visualization and Reporting
 
 - SQL - [structured query language] for querying the Data.
 
